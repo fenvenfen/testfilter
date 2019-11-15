@@ -9,8 +9,8 @@ var cropperApp = angular.module('svApp', [
 
 cropperApp.config(function($routeProvider,$locationProvider) {
     $routeProvider
-    .when("/", {
-        templateUrl : "app/layout/home.html"
+    .when("/testfilter", {
+        templateUrl : "testfilter/app/layout/home.html"
     })
 
     $locationProvider.hashPrefix('');
