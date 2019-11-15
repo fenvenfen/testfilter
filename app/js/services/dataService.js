@@ -20,12 +20,12 @@ angular.module('dataService', [])
         ];
 
         let cards=[
-            {id:1,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'London', category:'Business', price:50, img: '/app/css/img/1.jpg'},
-            {id:2,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Barcelona', category:'Architecture', price:100, img: '/app/css/img/2.jpg'},
-            {id:3,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Antananarivy', category:'Architecture', price:1, img: '/app/css/img/3.jpg'},
-            {id:4,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'London', category:'Development', price:150, img: '/app/css/img/2.jpg'},
-            {id:5,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Barcelona', category:'Marketing', price:200, img: '/app/css/img/1.jpg'},
-            {id:3,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Roma', category:'Architecture', price:1, img: '/app/css/img/3.jpg'}
+            {id:1,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'London', category:'Business', price:50, img: 'testfilter/app/css/img/1.jpg'},
+            {id:2,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Barcelona', category:'Architecture', price:100, img: 'testfilter/app/css/img/2.jpg'},
+            {id:3,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Antananarivy', category:'Architecture', price:1, img: 'testfilter/app/css/img/3.jpg'},
+            {id:4,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'London', category:'Development', price:150, img: 'testfilter/app/css/img/2.jpg'},
+            {id:5,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Barcelona', category:'Marketing', price:200, img: 'testfilter/app/css/img/1.jpg'},
+            {id:3,name:'Affiliate Marketing - A Beginner\'s Guide to Earning Online', city:'Roma', category:'Architecture', price:1, img: 'testfilter/app/css/img/3.jpg'}
 
         ];
 
