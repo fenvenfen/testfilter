@@ -1,0 +1,65 @@
+{
+    "sv": {
+        "info": {
+            "Name": "Volodymyr",
+            "SunName": "Yeryhin",
+            "Birthday": "20.05.1995",
+            "City": "Vinnitsa",
+            "Phone": "(097) 610 60 06",
+            "Email": "vova.yeryhin@gmail.com"
+        },
+        "summary": {
+            "mainInfo": "Front-end Developer with 2+ years of experience developing. Specializes in AngularJS."
+        },
+        "education": {
+            "level1": "Bratslav school",
+            "level2": "Uniwersytet Ekonomiczny w Krakowie"
+        },
+        "experience": [
+            {
+                "title": "Profebook",
+                "position": "Front-end Developer",
+                "date": "Sep '15 -- Feb '16",
+                "about": "Since the Profebook is a social network my obligations included the creation of various kinds of pages (settings, news, friends, and so on) using HTML/CSS and JavaScript (AngularJs on typescript)"
+            },
+            {
+                "title": "Freelance",
+                "position": "Front-end Developer",
+                "date": "Feb '16 -- Jan ‘18",
+                "about": "Developed  5+ websites, using jQuery, Wordpress, Woocommerce, DLE"
+            },
+            {
+                "title": "Atlasiko inc",
+                "position": "Front-end Developer",
+                "date": "Jan '18 -- Current",
+                "about": "Сreation of additional functionality for our product  https://gudhub.com/ Creating visualizations for kitchens https://visualizer.diamondatlowes.com/"
+            }
+        ],
+        "skills": {
+            "skil1": {
+                "titel": "JavaScript",
+                "level": "8"
+            },
+            "skil2": {
+                "titel": "AngularJS ",
+                "level": "7"
+            },
+            "skil3": {
+                "titel": "HTML/CSS",
+                "level": "5"
+            },
+            "skil4": {
+                "titel": "Git",
+                "level": "7"
+            },
+            "skil5": {
+                "titel": "Grunt, Gulp",
+                "level": "5"
+            },
+            "skil6": {
+                "titel": "Wordpress",
+                "level": "4"
+            }
+        }
+    }
+}
